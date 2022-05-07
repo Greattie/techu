@@ -211,7 +211,7 @@ h3 {
   }
   .cont2-text {
     height: 240px;
-    width: 70%;
+    width: 80%;
   }
   .name {
     font-family: "Open Sans", sans-serif;
@@ -270,7 +270,7 @@ h3 {
     text-align: center;
     height: 15px;
     width: 40%;
-    padding-top: 1px;
+    padding-top: 3px;
     font-family: "Montserrat", sans-serif;
     font-weight: 700;
     font-size: 5px;
